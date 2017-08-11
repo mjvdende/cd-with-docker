@@ -2,4 +2,4 @@
 
 Workshop Continuous Delivery with Docker
 
-See http://nauts.io/cd-with-docker/ for the slides
+See https://mjvdende.github.io/cd-with-docker for the slides
